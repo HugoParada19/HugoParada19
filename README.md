@@ -3,7 +3,7 @@
 -Working from the moment on my new github profile and portfolio
 
 ~~~DB
-Additional information: **[Redacted]**
+Additional information: Student at Gustave Eiffel Professional school
 ~~~
 
   ![Snake animation](https://github-readme-stats.vercel.app/api?username=HugoParada19&theme=highcontrast&show_icons=true)
