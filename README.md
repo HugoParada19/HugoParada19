@@ -3,7 +3,7 @@
 -Working from the moment on my new github profile and portfolio
 
 ~~~DB
-Additional information: Student at Gustave Eiffel Professional School
+Additional information: Former student at Gustave Eiffel Professional School
 ~~~
 
   ![Snake animation](https://github-readme-stats.vercel.app/api?username=HugoParada19&theme=highcontrast&show_icons=true)
